@@ -1,0 +1,26 @@
+{
+  "hosts": [
+  {
+    "entityId": "windows.server.com",
+    "displayName": "windows.server.com",
+    "osName": "Windows",
+    "numOfCPU": "16",
+    "cpuSpeedMhz": "2600",
+    "memSizeGB": "252",
+    "ipAddresses": [
+      "192.168.2.122"
+      ]
+    },
+    {
+      "entityId": "linux.server.com",
+      "displayName": "linux.server.com",
+      "osName": "Linux",
+      "numOfCPU": "16",
+      "cpuSpeedMhz": "2800",
+      "memSizeGB": "512",
+      "ipAddresses": [
+        "192.168.2.123"
+        ]
+      }
+  ]
+}
