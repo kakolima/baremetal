@@ -1,14 +1,14 @@
 {
   "hosts": [
   {
-    "entityId": "windows.server.com",
-    "displayName": "windows.server.com",
+    "entityId": "sgm01-ccr.engelogtec.com.br",
+    "displayName": "sgm01-ccr.engelogtec.com.br",
     "osName": "Windows",
-    "numOfCPU": "16",
-    "cpuSpeedMhz": "2600",
-    "memSizeGB": "252",
+    "numOfCPU": "2",
+    "cpuSpeedMhz": "2100",
+    "memSizeGB": "8",
     "ipAddresses": [
-      "192.168.2.122"
+      "10.100.100.120"
       ]
     },
     {
